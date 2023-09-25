@@ -2,12 +2,12 @@
 
 # Write a function that executes a function safely
 
-import sys
+from sys import stderr
 
 
 def safe_function(fct, *args):
     try:
         return fct(*args)
-    except:
-        print("Exception: {}".format(sys.exc_info()[1]), file=sys.stderr)
-        return (None)
+    except Exception as num:
+        stderr.write("Exception: {}\n".format(num))
+        return None
