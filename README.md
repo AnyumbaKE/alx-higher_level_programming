@@ -8,7 +8,7 @@ Most common programming languages are considered high-level languages. Examples 
 
 # C#
 
-Cobol
+# Cobol
 
 Fortran
 
@@ -16,9 +16,9 @@ Java
 
 JavaScript
 
-Objective C
+# Objective C
 
-Pascal
+# Pascal
 
 # Perl
 
