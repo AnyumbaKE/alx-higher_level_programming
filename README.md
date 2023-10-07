@@ -24,7 +24,7 @@ Perl
 
 PHP
 
-Python
+# Python
 
 Swift
 
