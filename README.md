@@ -20,9 +20,9 @@ Objective C
 
 Pascal
 
-Perl
+# Perl
 
-PHP
+# PHP
 
 # Python
 
