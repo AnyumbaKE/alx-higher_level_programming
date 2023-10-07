@@ -10,11 +10,11 @@ Most common programming languages are considered high-level languages. Examples 
 
 # Cobol
 
-Fortran
+# Fortran
 
-Java
+# Java
 
-JavaScript
+# JavaScript
 
 # Objective C
 
@@ -26,7 +26,7 @@ JavaScript
 
 # Python
 
-Swift
+# Swift
 
 Each of these languages use different syntax. Some are designed for writing desktop software programs, while others are best-suited for web development. But they all are considered high-level since they must be processed by a compiler or interpreter before the code is executed.
 
