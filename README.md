@@ -4,29 +4,29 @@ A high-level language is a programming language designed to simplify computer pr
 
 Most common programming languages are considered high-level languages. Examples include:
 
-C++
+# C++
 
-C#
+# C#
 
-Cobol
+# Cobol
 
-Fortran
+# Fortran
 
-Java
+# Java
 
-JavaScript
+# JavaScript
 
-Objective C
+# Objective C
 
-Pascal
+# Pascal
 
-Perl
+# Perl
 
-PHP
+# PHP
 
-Python
+# Python
 
-Swift
+# Swift
 
 Each of these languages use different syntax. Some are designed for writing desktop software programs, while others are best-suited for web development. But they all are considered high-level since they must be processed by a compiler or interpreter before the code is executed.
 
