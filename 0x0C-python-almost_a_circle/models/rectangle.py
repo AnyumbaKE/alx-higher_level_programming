@@ -89,7 +89,7 @@ class Rectangle(Base):
             self.__width, self.__height)
 
     def update(self, *args, **kwargs):
-        """ """
+        """Update the class Rectangle by adding the public method"""
         if args:
             for k, v in enumerate(args):
                 if k == 0:
