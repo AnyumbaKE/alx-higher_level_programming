@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""Python - Almost a circle."""
+"""Class Base"""
+
+import json
+import csv
 
 
 class Base():
@@ -8,7 +11,7 @@ class Base():
     __nb_objects = 0
 
     def __init__(self, id=None):
-        """Initialize a new base"""
+        """Initialize"""
         if id is not None:
             self.id = id
         else:
