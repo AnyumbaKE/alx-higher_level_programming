@@ -89,10 +89,7 @@ class Rectangle(Base):
             self.__width, self.__height)
 
     def update(self, *args, **kwargs):
-        """
-        If args: set attributes in this order: id, width, height, x, y
-        If no args given: set attributes according to kwargs
-        """
+        """ """
         if args:
             for k, v in enumerate(args):
                 if k == 0:
