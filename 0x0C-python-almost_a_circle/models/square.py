@@ -55,6 +55,12 @@ class Square(Rectangle):
         self.width = value
         self.height = value
 
+    def __str__(self):
+        """Prints [Square] (<id>) <x>/<y> - <size>"""
+        return "[{:s}] ({:d}) {:d}/{:d} - {:d}".format(
+            self.__class__.__name__, self.id, self.x, self.y,
+            self.size)
+
     def update(self, *args, **kwargs):
         """
         If args: set attributes in this order: id, width, height, x, y
@@ -88,9 +94,3 @@ class Square(Rectangle):
         d["x"] = self.x
         d["y"] = self.y
         return d
-
-    def __str__(self):
-        """Prints [Square] (<id>) <x>/<y> - <size>"""
-        return "[{:s}] ({:d}) {:d}/{:d} - {:d}".format(
-            self.__class__.__name__, self.id, self.x, self.y,
-            self.size)
