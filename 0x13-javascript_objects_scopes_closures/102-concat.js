@@ -1,4 +1,4 @@
-#!/usr/bin/node 
+#!/usr/bin/node
 // A script that concats 2 files
 const fs = require('fs');
 
