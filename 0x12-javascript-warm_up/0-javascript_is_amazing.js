@@ -1,4 +1,4 @@
-#!/usr/bin/Node
+#!/usr/bin/node
 /*
 A script that prints “JavaScript is amazing”:
     Create a constant variable called myVar with the value “JavaScript is amazing”
