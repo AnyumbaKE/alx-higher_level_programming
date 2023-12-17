@@ -4,7 +4,7 @@ A  script that lists all states from the database hbtn_0e_0_usa.
         script should take 3 arguments:
            mysql username
            mysql password
-           database name 
+           database name
 """
 import sys
 import MySQLdb
