@@ -2,6 +2,11 @@
 """
 A script that prints the State object with the name passed as argument
 from the database hbtn_0e_6_usa
+        script should take 4 arguments:
+           mysql username
+           mysql password
+           database name
+           state name to search
 """
 
 
