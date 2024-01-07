@@ -7,7 +7,7 @@ A Python script that takes in a URL, sends a request to the URL
     print: Error code: followed by the HTTP status code
 - Am using the packages urllib and sys
 - Am not allowed to import packages other than urllib and sys
-- Am checking arguments passed to the script (number or type)
+- Am not checking arguments passed to the script (number or type)
 """
 
 import sys
