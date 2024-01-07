@@ -7,7 +7,7 @@ A Python script that takes in a URL and an email, sends a POST request
 - The email is sent in the email variable
 - Am using the packages urllib and sys
 - Am not allowed to import packages other than urllib and sys
-- Am checking arguments passed to the script (number or type)
+- Am not checking arguments passed to the script (number or type)
 """
 
 
