@@ -4,7 +4,8 @@ A Python script that fetches https://alx-intranet.hbtn.io/status
 
 - Am using the package requests
 - Am not allowed to import packages other than requests
-- The body of the response must be display like the following example (tabulation before -)
+- The body of the response must be display like the following
+        example (tabulation before -)
 """
 
 
