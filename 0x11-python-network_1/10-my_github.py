@@ -3,7 +3,8 @@
 A Python script that takes your GitHub credentials (username and password)
     and uses the GitHub API to display your id
 
-- Am using Basic Authentication with a personal access token as password for access
+- Am using Basic Authentication with a personal access token as password
+    for access
 - The first argument is username
 - The second argument is password
 - Am using the packages requests and sys
