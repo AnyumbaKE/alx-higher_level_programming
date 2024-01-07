@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Write a Python script that fetches https://alx-intranet.hbtn.io/status
+A Python script that fetches https://alx-intranet.hbtn.io/status
 
 - Am using the package urllib
 - Am not allowed to import any packages other than urllib
