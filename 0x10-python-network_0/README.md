@@ -1,14 +1,31 @@
 # 0x10. Python - Network #0
-Bash
-Python
-Scripting
-Back-end
-API
- By: Guillaume
- Weight: 1
- Project will start Jan 5, 2024 6:00 AM, must end by Jan 6, 2024 6:00 AM
- Checker was released at Jan 5, 2024 12:00 PM
- An auto review will be launched at the deadline
+<table>
+    <tr>
+        <td>Bash</td>
+        <td>Python</td>
+        <td>Scripting</td>
+        <td>Back-end</td>
+        <td>API</td>
+    </tr>
+<table>
+<table>
+    <tr>
+        <td>By: Guillaume</td>
+    </tr>
+    <tr>
+        <td>Weight: 1</td>
+    </tr>
+    <tr>
+        <td>Project will start Jan 5, 2024 6:00 AM, must end by Jan 6, 2024 6:00 AM</td>
+    </tr>
+    <tr>
+        <td>Checker was released at Jan 5, 2024 12:00 PM</td>
+    </tr>
+    <tr>
+        <td>An auto review will be launched at the deadline</td>
+    </td>
+<table>
+
 ## Resources
 ## Read or watch:
 
@@ -56,7 +73,7 @@ API
 ## Tasks
 ### 0. cURL body size
 ```
-score
+Score: 100.0% (Checks completed: 100.0%)
 ```
 Write a Bash script that takes in a URL, sends a request to that URL, and displays the size of the body of the response
 
@@ -76,7 +93,7 @@ Repo:
    
 ### 1. cURL to the end
 ```
-score
+Score: 100.0% (Checks completed: 100.0%)
 ```
 Write a Bash script that takes in a URL, sends a GET request to the URL, and displays the body of the response
 
@@ -96,7 +113,7 @@ Repo:
    
 ### 2. cURL Method
 ```
-score
+Score: 100.0% (Checks completed: 100.0%)
 ```
 Write a Bash script that sends a DELETE request to the URL passed as the first argument and displays the body of the response
 
@@ -115,7 +132,7 @@ Repo:
    
 ### 3. cURL only methods
 ```
-score
+Score: 100.0% (Checks completed: 100.0%)
 ```
 Write a Bash script that takes in a URL and displays all HTTP methods the server will accept.
 
@@ -134,7 +151,7 @@ Repo:
    
 ### 4. cURL headers
 ```
-score
+Score: 100.0% (Checks completed: 100.0%)
 ```
 Write a Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response
 
@@ -154,7 +171,7 @@ Repo:
    
 ### 5. cURL POST parameters
 ```
-score
+Score: 100.0% (Checks completed: 100.0%)
 ```
 Write a Bash script that takes in a URL, sends a POST request to the passed URL, and displays the body of the response
 
@@ -177,7 +194,7 @@ File: 5-post_params.sh
    
 ### 6. Find a peak
 ```
-score
+Score: 100.0% (Checks completed: 100.0%)
 ```
 <b>Technical interview preparation:</b>
 
@@ -224,7 +241,7 @@ Repo:
    
 ### 7. Only status code
 ```
-score
+Score: 100.0% (Checks completed: 100.0%)
 ```
 Write a Bash script that sends a request to a URL passed as an argument, and displays only the status code of the response.
 
@@ -248,7 +265,7 @@ Repo:
    
 ### 8. cURL a JSON file
 ```
-score
+Score: 100.0% (Checks completed: 100.0%)
 ```
 Write a Bash script that sends a JSON POST request to a URL passed as the first argument, and displays the body of the response.
 
@@ -286,7 +303,7 @@ Repo:
    
 ### 9. Catch me if you can!
 ```
-score
+Score: 100.0% (Checks completed: 100.0%)
 ```
 Write a Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response.
 
@@ -303,4 +320,4 @@ Repo:
 - GitHub repository: alx-higher_level_programming
 - Directory: 0x10-python-network_0
 - File: 102-catch_me.sh
-   
+
