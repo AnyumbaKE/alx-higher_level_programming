@@ -4,7 +4,8 @@ A Python script that fetches https://alx-intranet.hbtn.io/status
 
 - Am using the package urllib
 - Am not allowed to import any packages other than urllib
-- The body of the response is displayed like the following example (tabulation before -)
+- The body of the response is displayed like the following
+        example (tabulation before -)
 """
 
 
@@ -12,8 +13,7 @@ from urllib import request
 
 
 if __name__ == "__main__":
-    url = "https://intranet.hbtn.io/status"
-    with request.urlopen(url) as response:
+    with request.urlopen("https://alx-intranet.hbtn.io/status") as response:
         response = response.read()
         print("Body response:")
         print("\t- type: {}".format(type(response)))
